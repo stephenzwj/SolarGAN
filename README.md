@@ -1,7 +1,7 @@
 # SolarGAN: Multivariate Solar Data Imputation Using Generative Adversarial Network
 
 
-## author: Wenjie Zhang, Student Member, IEEE, Yonghong Luo, Ying Zhang, and Dipti Srinivasan Senior Member, IEEE
+## author: Wenjie Zhang, Student Member, IEEE, Yonghong Luo, Ying Zhang, and Dipti Srinivasan Fellow, IEEE
 
 ## tensorflow version:1.7 python:2.7
 
